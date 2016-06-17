@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "bin": "bin/idnt.js",
   "scripts": {
+    "lint": "standard",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,10 +23,10 @@
   },
   "homepage": "https://github.com/kt3k/idnt#readme",
   "dependencies": {
-    "glob": "^7.0.4",
     "minimist": "^1.2.0"
   },
   "devDependencies": {
+    "standard": "^7.1.2",
     "tape": "^4.5.1"
   }
 }
