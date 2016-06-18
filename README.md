@@ -4,7 +4,7 @@
 
 # Install
 
-    npm install idnt
+    npm install -g idnt
 
 This installs `indent` command.
 
