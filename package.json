@@ -32,5 +32,10 @@
     "nyc": "^6.6.1",
     "standard": "^7.1.2",
     "tape": "^4.5.1"
+  },
+  "standard": {
+    "ignore": [
+      "/test/fixture"
+    ]
   }
 }
