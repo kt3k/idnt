@@ -1,6 +1,6 @@
 {
   "name": "idnt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Change indent level",
   "main": "lib/convert.js",
   "bin": "bin/idnt.js",
