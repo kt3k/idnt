@@ -28,6 +28,7 @@
     "minimist": "^1.2.0"
   },
   "devDependencies": {
+    "codecov": "^1.0.1",
     "nyc": "^6.6.1",
     "standard": "^7.1.2",
     "tape": "^4.5.1"
