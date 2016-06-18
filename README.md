@@ -6,7 +6,7 @@
 
     npm install -g idnt
 
-This installs `indent` command.
+This installs `idnt` command.
 
 # Command
 
@@ -24,7 +24,7 @@ This installs `indent` command.
 
 # Note
 
-There are lots of command line tools out there which "fix" indent of your source code. However most of them do extra things at the same time and you cannot use them if you want to change only indent. What I wanted is the tool which only converts indent according to current indent and doesn't touch anything else. That's why I created this.
+There are lots of command line tools out there which "fix" indent of your source code. However most of them do extra things at the same time and you cannot use them if you want to change only indent. What I wanted is the tool which only converts indent according to the current indent and doesn't touch anything else. That's why I created this.
 
 # License
 
