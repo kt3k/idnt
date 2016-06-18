@@ -1,5 +1,9 @@
 # idnt v1.0.3
 
+[![CircleCI](https://circleci.com/gh/kt3k/idnt.svg?style=svg)](https://circleci.com/gh/kt3k/idnt)
+[![codecov](https://codecov.io/gh/kt3k/idnt/branch/master/graph/badge.svg)](https://codecov.io/gh/kt3k/idnt)
+[![bitHound Overall Score](https://www.bithound.io/github/kt3k/idnt/badges/score.svg)](https://www.bithound.io/github/kt3k/idnt)
+
 > Change indent level
 
 # Install
