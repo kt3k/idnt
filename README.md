@@ -1,4 +1,4 @@
-# idnt v0.1.0
+# idnt v1.0.0
 
 > Change indent level
 
