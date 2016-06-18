@@ -18,6 +18,6 @@ This installs `indent` command.
 
     Example:
 
-      idnt -i 4 src         # replace 4 width indent with 2 space indent
-      idnt -i t -o 4 test   # replace tab indent with 4 space indent
-      idnt -i 2 -o t src    # replace 2 space indent with tab indent
+      idnt -i 4 src/index.js         # replace 4 width indent with 2 space indent
+      idnt -i t -o 4 test/index.js   # replace tab indent with 4 space indent
+      idnt -i 2 -o t src/index.js    # replace 2 space indent with tab indent
