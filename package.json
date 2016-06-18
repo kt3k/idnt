@@ -2,11 +2,13 @@
   "name": "idnt",
   "version": "0.1.0",
   "description": "Change indent level",
-  "main": "lib/index.js",
+  "main": "lib/convert.js",
   "bin": "bin/idnt.js",
   "scripts": {
     "lint": "standard",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tape 'test/**/*.js'",
+    "cov": "nyc --reporter=lcov npm test",
+    "codecov": "npm run cov && codecov"
   },
   "repository": {
     "type": "git",
@@ -26,6 +28,7 @@
     "minimist": "^1.2.0"
   },
   "devDependencies": {
+    "nyc": "^6.6.1",
     "standard": "^7.1.2",
     "tape": "^4.5.1"
   }
