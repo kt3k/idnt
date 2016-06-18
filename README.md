@@ -1,4 +1,4 @@
-# idnt v1.0.3
+# idnt v1.0.4
 
 [![CircleCI](https://circleci.com/gh/kt3k/idnt.svg?style=svg)](https://circleci.com/gh/kt3k/idnt)
 [![codecov](https://codecov.io/gh/kt3k/idnt/branch/master/graph/badge.svg)](https://codecov.io/gh/kt3k/idnt)
